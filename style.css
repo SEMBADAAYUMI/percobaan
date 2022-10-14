@@ -1,6 +1,7 @@
 body {
   background-color: aliceblue;
+  text-align: center;
 }
-main {
-  align-items: center;
+#value {
+  font-size: 50px;
 }
